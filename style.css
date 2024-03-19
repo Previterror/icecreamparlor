@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    max-height: 105px;
+    object-fit: cover;
+
+}
+
+.height-85 {
+    height: 85dvh;
+}
+
+.height-10 {
+    height: 10dvh;
+}
+
+.card-width {
+    width: 20dvh;
+    margin: 1em;
+}
